@@ -1,0 +1,27 @@
+{
+  "name": "fk89-simple-calculator2",
+  "version": "1.1.2",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not yet"
+  },
+  "keywords": [
+    "Hi!",
+    "This calculator is for learning purpose only."
+  ],
+  "author": "M.Fahad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
